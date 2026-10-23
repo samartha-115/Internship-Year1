@@ -1,0 +1,8 @@
+search-path = ["Implementation-2_3"]
+infer-with-first-use = false
+
+[[sub-config]]
+matches = "Implementation-2_3"
+
+[[sub-config]]
+matches = "."

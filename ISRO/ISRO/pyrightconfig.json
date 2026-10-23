@@ -1,0 +1,14 @@
+{
+  "extraPaths": [
+    "Implementation-2_3"
+  ],
+  "executionEnvironments": [
+    {
+      "root": "Implementation-2_3",
+      "extraPaths": ["."]
+    },
+    {
+      "root": "."
+    }
+  ]
+}
